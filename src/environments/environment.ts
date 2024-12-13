@@ -1,10 +1,11 @@
 export const environment = {
   firebase: {
-    projectId: 'angular-auth-c7966',
-    appId: '1:78539156689:web:b1ca5b34f72ff800cb29f0',
-    storageBucket: 'angular-auth-c7966.appspot.com',
-    apiKey: 'AIzaSyBpg3k4szYlan6QkriKhrlDEVzFysC6tyc',
-    authDomain: 'angular-auth-c7966.firebaseapp.com',
-    messagingSenderId: '78539156689',
+    apiKey: "AIzaSyB2iYgmbSGsbz17bn6GQ--EkvYxMPDS0ns",
+    authDomain: "redsocial2-43162.firebaseapp.com",
+    projectId: "redsocial2-43162",
+    storageBucket: "redsocial2-43162.firebasestorage.app",
+    messagingSenderId: "562172392344",
+    appId: "1:562172392344:web:7746a4c1ac998a4f7c31ed"
   },
 };
+
